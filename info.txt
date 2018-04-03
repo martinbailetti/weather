@@ -1,0 +1,8 @@
+https://github.com/StephenGrider/ReduxSimpleStarter
+npm install
+npm start
+
+https://github.com/redux-utilities/redux-promise
+npm install --save redux-promise
+https://www.npmjs.com/package/axios
+npm install --save axios
